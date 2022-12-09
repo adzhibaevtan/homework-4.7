@@ -1,4 +1,4 @@
-package com.chat.homeworks
+package com.reg.homeworks
 
 import org.junit.Test
 
